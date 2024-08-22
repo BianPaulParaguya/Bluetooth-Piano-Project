@@ -18,3 +18,5 @@ Components Used
   Serial bluetooth terminal app
 
   Android tablet  
+
+  Link to powerpoint presentation: https://mycsunemail-my.sharepoint.com/:p:/g/personal/amaury_morales_876_my_csun_edu/EWKQFmsQozdCil1sxHrATUoBexNtPWDNL_n372tLHRA93g?e=9iMKUV
